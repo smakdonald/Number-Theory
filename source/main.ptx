@@ -12,15 +12,17 @@
   </docinfo>
 
   <book xml:id="my-great-book">
-    <title>My Great Book</title>
+    <title>Compendium Arithmetica</title>
+    <!-- 
     <subtitle>An example to get you started</subtitle>
+    -->
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
         <author>
-          <personname>You</personname>
-          <department>Your department</department>
-          <institution>Your institution</institution>
+          <personname>Sam Macdonald</personname>
+          <department>Department of Mathematics</department>
+          <institution>University of Nebraska -- Lincoln</institution>
         </author>
         <date>
           <today />
